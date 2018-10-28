@@ -10,8 +10,7 @@ I helped Justin finalize the schedules schema and started writing some of the co
 ## This Week's Plan
 
 I technically am doing this on Sunday because I forgot to do this on Tuesday,
-but the plan was to get data inserted and actually usable, especially since the frontend team members need it.
-I have written some of that code but I think I want to look into how to do URL queries with Go http and url packages
+but the plan was to get data inserted and actually usable, especially since the frontend team members need it. I would at least like to have a well-defined interface for the front-end members to use but I may need to figure out more about what they need first. I have written some of that code but I think I want to look into how to do URL queries with Go http and url packages
 so that we don't just need to grab all the schedules at once and sort through json in the front-end.
 
 <!-- > In this section, you can write about what you have planned for next week. -->
