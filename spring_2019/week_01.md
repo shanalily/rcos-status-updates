@@ -19,6 +19,9 @@ The syntax of the language really needs to be defined. I also want to be able to
 
 There's a lot I don't know about Haskell so I want to brush up more on it in general, plus how to use Megaparsec.
 
+I was reading a page on [this website](http://dev.stephendiehl.com/fun/index.html) about writing a compiler in Haskell
+ for Hindley-Milner type inference and I think if I read this more it should help.
+
 ## Anything Blocking?
 
 <!-- > In this section, you can write about any blockers that you are having trouble in the project. -->
