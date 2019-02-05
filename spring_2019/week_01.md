@@ -34,3 +34,5 @@ an issue with my Github settings. I think I played with the security and login s
 ## Notes
 
 <!-- > This is an optional section for any sort of information that does not fall under any of the other categories. -->
+I went to the Ultimate Go workshop that I heard about through RCOS this past weekend, which was 9-5 on Saturday and
+Sunday, so I didn't have as much free time as I would like.
