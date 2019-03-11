@@ -1,9 +1,9 @@
+## Last Week's Accomplishments
+
 <!-- > In this section, you can write about what you accomplished in the previous week. -->
 
 <!-- > This past week, I was able to implement the the dialog box for creating a new user in the front end. I \ -->
 <!-- > learned how to send requests in JavaScript to the backend API. -->
-I'm still not sure why I can't push to the upstream repository remotely but I'm definitely a collaborator so I'm just
-going to push from Github I guess. I edited the README to double check I'm a collaborator.
 
 I tried writing a function to converts an expression in [reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
 to something that can be evaluated. I think my issues were related to the type system not being finished but I think it will be
