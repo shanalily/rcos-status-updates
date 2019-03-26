@@ -41,3 +41,4 @@ make this easier.
 ## Notes
 
 <!-- > This is an optional section for any sort of information that does not fall under any of the other categories. -->
+I went to the docker workshop over the weekend, and spent a little time reading documentation again. Docker is something I wish I had more practice with.
