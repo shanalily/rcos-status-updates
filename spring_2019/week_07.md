@@ -18,6 +18,8 @@ substitution functions aren't being used yet. Someone else might be working on t
 Something I can do is work on command line options. I'll think of something else to do if that turns out be very little work.
 Maybe I could write test cases.
 
+I might need to clean up some of what I wrote this week, I don't like that I have a getExplicitState function, though maybe that could be helpful for testing.
+
 ## Anything Blocking?
 
 <!-- > In this section, you can write about any blockers that you are having trouble in the project. -->
