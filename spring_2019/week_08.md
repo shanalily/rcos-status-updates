@@ -5,7 +5,7 @@
 <!-- > This past week, I was able to implement the the dialog box for creating a new user in the front end. I \ -->
 <!-- > learned how to send requests in JavaScript to the backend API. -->
 
-I added command line options using the optparse-applicative library.
+I added command line options using the optparse-applicative library. Now you can specify and output file instead of just printing (this is optional) and there's a help option. I was really busy this week so it was good to not have too much work.
 
 ## This Week's Plan
 
