@@ -14,10 +14,7 @@ I added command line options using the optparse-applicative library. Now you can
 <!-- > After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \ -->
 <!-- > I also plan on attending the git workshop this week. -->
 
-Something I can do is work on command line options. I'll think of something else to do if that turns out be very little work.
-Maybe I could write test cases.
-
-I might need to clean up some of what I wrote this week, I don't like that I have a getExplicitState function, though maybe that could be helpful for testing.
+The presentation is coming up, so in addition to making sure that happens, I think it would be good if we worked on documenatation. Maybe we could continue working on using EBNF to represent the language. I will also ask more about what might be needed of me.
 
 ## Anything Blocking?
 
@@ -25,7 +22,7 @@ I might need to clean up some of what I wrote this week, I don't like that I hav
 
 <!-- > I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \ -->
 <!-- > ask my mentors if they have any suggestions. -->
-Not at the moment.
+It's helpful to communicate in person sometimes, but we had large group today so I need to communicate over Mattermost.
 
 ## Notes
 
